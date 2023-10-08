@@ -12,7 +12,7 @@ import datetime
 import re
 import os
 
-tk = "OTkxNzQyODk4NTE5NDI5MTIw.G7ZznD.PjGeGga7JCLbxgpJ_vD5UhuuCf6W43Cxg6aY1A"
+tk = "MTE1NTUyMDc4NTY0NjEwMDQ5MA.GwgaT9.ZYsWFgKkHN_H_75HoyRmsvE1W6-pFMh-lFOyAY"
 
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 bot.remove_command("help")
